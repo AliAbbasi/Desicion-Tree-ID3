@@ -1,6 +1,6 @@
-Written at python version 2.7.11, in order to compile the code use below command:
-Python src.py Input_dataset.txt
+
 It generates ‘Output.dot’ and ‘Testset Report.txt’ files
+
 Output.dot is a file which in 'graphiz' format
 
 --------------------------------------------------------------------------------------------
