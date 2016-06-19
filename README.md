@@ -1,7 +1,9 @@
 -	My code written at python version 2.7.11, in order to compile the code use below command:
 -	Python src.py Input_dataset.txt
 It generates ‘Output.dot’ and ‘Testset Report.txt’ files
+
 --------------------------------------------------------------------------------------------
+
 Input dateset must have this format: (The example dataset)
 
 %  'T:' Identifies the Attribute Title Line
