@@ -1,3 +1,6 @@
+Decision Tree Model (specificly ID3 algorithm).
+This program takes an input dataset and built the Decision Tree.
+
 
 It generates ‘Output.dot’ and ‘Testset Report.txt’ files
 
