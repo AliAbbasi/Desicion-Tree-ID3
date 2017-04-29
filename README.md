@@ -3,9 +3,9 @@ Decision Tree Model (specificly ID3 algorithm).
 This program takes an input dataset and built the Decision Tree.
 
 
-It generates ‘Output.dot’ and ‘Testset Report.txt’ files
+It generates ‘Output.dot’ and ‘Testset Report.txt’ files.
 
-Output.dot is a file which in 'graphiz' format
+Output.dot is a file which in 'graphiz' format.
 
 --------------------------------------------------------------------------------------------
 
@@ -38,4 +38,8 @@ B: no, yes, yes, no, before2010, long, medium, conferance, no;
 B: no, no, yes, yes, after2015, long, high, journal, yes;
 
 B: no, no, yes, yes, before2010, short, low, conferance, no;
+
+--------------------------------------------------------------------------------------------
+
+Use can convert your .dot file to a tree using [this](http://graphs.grevian.org/graph) link.
 
